@@ -1,10 +1,12 @@
-##Presentazione progetto
+# NextAsta
+
+## Presentazione progetto
 Il progetto si basa su una applicazone web di aste online, dove è possibile mettere dei prodotti all'asta in modo tale che altri utenti possano fare delle offerte. Una volta che il prodotto supera la data di scadenza dell'asta (che viene richiesta quando creiamo una nuova asta),l'asta verrà considerata terminata e non sarà più possibile fare delle offerte.
 
-##Tecnologie utilizzate
+## Tecnologie utilizzate
 Questo progetto è stato fatto interamente con next.js e tailwind,il database è postgresql utilizzato con Drizzle
 
-##Installazione e avvio
+## Installazione e avvio
 ```bash
 cd nome-progetto
 
